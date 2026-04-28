@@ -1,0 +1,23 @@
+# IDE / Tooling
+.agents/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build/Temp
+dist/
+build/
+temp/
+node_modules/
+
+# Secrets
+.env
+.env.local
+.env.*.local
